@@ -8,8 +8,18 @@
 
 ## Contents
 
+### Theory
+
+- [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) All the major pieces of a common compiler in readable JS.
+
+### Platforms:
+
 - [Clojure](#clojure)
 - [Java](#java)
+- [Javascript](#javascript)
+  - [Accessibility](#accessibility)
+  - [React UI](#react-ui)
+  - [Redux](#redux)
 
 ## Clojure
 
@@ -19,6 +29,22 @@
 ## Java
 
 - [Joda Time](https://github.com/JodaOrg/joda-time) - A nice time lib for Java, works well when used directly in Clojure.
+
+## Javascript
+
+### Accessibility
+
+- [React-a11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements at runtime.
+- [ESLint jsx a11y plugin](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements.
+
+### React UI
+
+- [React file reader input](https://github.com/ngokevin/react-file-reader-input) - Easy to control styling, abstracts from file reading.
+- [React-Media](https://github.com/ReactTraining/react-media) - Match CSS media queries in components. Reacts to changes in screen size, etc.
+
+### Redux
+
+- [Redux-Saga](https://github.com/redux-saga/redux-saga) - Apparently easier handling of side effects in Redux apps.
 
 ## License
 
